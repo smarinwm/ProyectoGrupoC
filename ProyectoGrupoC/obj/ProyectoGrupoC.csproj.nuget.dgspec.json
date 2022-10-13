@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\ProyectoGrupoC\\ProyectoGrupoC.csproj": {}
+    "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\ProyectoGrupoC\\ProyectoGrupoC.csproj": {
+    "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
+        "projectUniqueName": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
         "projectName": "ProyectoGrupoC",
-        "projectPath": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
-        "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\ProyectoGrupoC\\obj\\",
+        "projectPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
+        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\ProyectoGrupoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "D:\\Programas\\VS\\VSCompartido\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

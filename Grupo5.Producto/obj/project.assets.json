@@ -224,25 +224,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanp\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\victo\\.nuget\\packages\\": {},
+    "D:\\Programas\\VS\\VSCompartido\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\Grupo5.Producto\\Grupo5.Producto.csproj",
+      "projectUniqueName": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
       "projectName": "Grupo5.Producto",
-      "projectPath": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\Grupo5.Producto\\Grupo5.Producto.csproj",
-      "packagesPath": "C:\\Users\\juanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juanp\\source\\repos\\MicroservicesTeamC\\Grupo5.Producto\\obj\\",
+      "projectPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "D:\\Programas\\VS\\VSCompartido\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\juanp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -251,7 +249,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
