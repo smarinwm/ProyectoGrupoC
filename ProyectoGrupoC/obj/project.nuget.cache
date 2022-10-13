@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EVmpOPYAIw9q9yzMdFj941ieC9K5n644YAQWSNVcgemt3GMcuhX1QAVfGLHCPbhnRZ+SYnW4JAFZ4GtCgzJhBg==",
+  "dgSpecHash": "taj1uPWsdVBJK5VDoBEPBTPQGwY6u1GFvdbLyHoaaXoeFfOQnPawAZbN9PxAoGB35Iv5Gv1CLAWzkNckTpT1dg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
+  "projectFilePath": "C:\\Users\\lewiscalewis\\source\\repos\\ProyectoGrupoC\\ProyectoGrupoC\\ProyectoGrupoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lewiscalewis\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\lewiscalewis\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
