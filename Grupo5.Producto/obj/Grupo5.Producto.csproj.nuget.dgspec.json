@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj": {}
+    "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj": {}
   },
   "projects": {
-    "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj": {
+    "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
+        "projectUniqueName": "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
         "projectName": "Grupo5.Producto",
-        "projectPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
-        "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-        "outputPath": "D:\\ProyectosProgramacion\\VS\\ProyectoMicroserviciosEquipoC\\ProyectoGrupoC\\Grupo5.Producto\\obj\\",
+        "projectPath": "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\Grupo5.Producto\\Grupo5.Producto.csproj",
+        "packagesPath": "C:\\Users\\lewiscalewis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lewiscalewis\\Source\\Repos\\ProyectoGrupoC\\Grupo5.Producto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Programas\\VS\\VSCompartido\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lewiscalewis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -25,7 +25,6 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,8 +54,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -68,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
