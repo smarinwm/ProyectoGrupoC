@@ -4,6 +4,6 @@ namespace GrupoC.AlbaranDeEntrega.Interfaces
 {
     public interface IProductoService
     {
-        Task<Producto> GetAsync(string id);
+        Task<Producto?> GetAsync(string id);
     }
 }
