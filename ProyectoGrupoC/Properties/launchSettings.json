@@ -4,17 +4,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:63970",
-      "sslPort": 44396
+      "applicationUrl": "http://localhost:24712"
     }
   },
   "profiles": {
-    "ProyectoGrupoC": {
+    "GrupoC.AlbaranDeEntrega": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://localhost:7292;http://localhost:5292",
+      "applicationUrl": "https://localhost:7110;http://localhost:5110",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
