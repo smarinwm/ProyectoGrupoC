@@ -16,7 +16,7 @@ namespace GrupoC.Estanteria.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetAsync(string id)
         {
-            var result = estanteriaProvider.GetAsnyc(id);
+            var result = await estanteriaProvider.GetAsnyc(id);
             if (result != null) return Ok(result);
             return NotFound();
         }

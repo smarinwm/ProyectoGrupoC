@@ -1,9 +1,10 @@
-﻿using GrupoC.AlbaranDeEntrega.Models;
+﻿using GrupoC.AlbaranDeEntrega.Interfaces;
+using GrupoC.AlbaranDeEntrega.Models;
 using Newtonsoft.Json;
 
 namespace GrupoC.AlbaranDeEntrega.Services
 {
-    public class ProductosService
+    public class ProductosService : IProductoService
     {
         private readonly IHttpClientFactory httpClientFactory;
 
@@ -15,7 +16,7 @@ namespace GrupoC.AlbaranDeEntrega.Services
         {
             var client = httpClientFactory.CreateClient("productosService");
 
-            var response = await client.GetAsync($"api/productos/{id}");
+            var response = await client.GetAsync($"api/Producto/{id}");
             if (response.IsSuccessStatusCode)
             {
                 var content = await response.Content.ReadAsStringAsync();

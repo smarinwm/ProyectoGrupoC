@@ -1,9 +1,10 @@
-﻿using GrupoC.AlbaranDeEntrega.Models;
+﻿using GrupoC.AlbaranDeEntrega.Interfaces;
+using GrupoC.AlbaranDeEntrega.Models;
 using Newtonsoft.Json;
 
 namespace GrupoC.AlbaranDeEntrega.Services
 {
-    public class EstanteriaService
+    public class EstanteriaService : IEstanteriaService
     {
         private readonly IHttpClientFactory httpClientFactory;
 
@@ -12,17 +13,17 @@ namespace GrupoC.AlbaranDeEntrega.Services
             this.httpClientFactory = httpClientFactory;
         }
 
-        public async Task<ICollection<Estanteria>> GetAsync(string estanteriaId)
+        public async Task<Estanteria> GetAsync(string estanteriaId)
         {
             var client = httpClientFactory.CreateClient("estanteriasService");
 
-            var response = await client.GetAsync(estanteriaId);
+            var response = await client.GetAsync($"api/Estanteria/{estanteriaId}");
 
             if (response.IsSuccessStatusCode)
             {
                 var content = await response.Content.ReadAsStringAsync();
 
-                var orders = JsonConvert.DeserializeObject<ICollection<Estanteria>>(content);
+                var orders = JsonConvert.DeserializeObject<Estanteria>(content);
 
                 return orders;
             }
