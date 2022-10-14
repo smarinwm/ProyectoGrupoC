@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProyectoGrupoC", "ProyectoGrupoC.csproj", "{7E0DC3D2-96C3-4D16-9437-1C96F0273325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrupoC.AlbarbanDeEntrega", "GrupoC.AlbarbanDeEntrega.csproj", "{7E0DC3D2-96C3-4D16-9437-1C96F0273325}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grupo5.Producto", "..\Grupo5.Producto\Grupo5.Producto.csproj", "{DEBFBE56-1FDB-4CE2-ADAF-3D2F44DF14C2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrupoC.Estanteria", "..\GrupoC.Estanteria\GrupoC.Estanteria.csproj", "{17CDA685-7E81-49F0-B4A0-B7F332C82D96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductosTest", "..\ProductosTest\ProductosTest.csproj", "{ACC7A2C0-4FAE-4388-A914-584C531FE616}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GrupoC.AlbaranDeEntrega", "..\GrupoC.AlbaranDeEntrega\GrupoC.AlbaranDeEntrega.csproj", "{900B704A-F756-4346-B124-67DC2F81F417}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +33,6 @@ Global
 		{ACC7A2C0-4FAE-4388-A914-584C531FE616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC7A2C0-4FAE-4388-A914-584C531FE616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC7A2C0-4FAE-4388-A914-584C531FE616}.Release|Any CPU.Build.0 = Release|Any CPU
-		{900B704A-F756-4346-B124-67DC2F81F417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{900B704A-F756-4346-B124-67DC2F81F417}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{900B704A-F756-4346-B124-67DC2F81F417}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{900B704A-F756-4346-B124-67DC2F81F417}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
